@@ -4,7 +4,7 @@ import TeamCard from '@/components/TeamCard'
 
 export const metadata: Metadata = {
   title: 'À propos — C&V Digital | Notre équipe et notre mission',
-  description: 'Découvrez C&V Digital, notre mission de digitalisation simple et performante, et notre équipe d\'experts en développement web et IA.',
+  description: 'Découvrez C&V Digital, notre mission de digitalisation simple et performante, et notre équipe d&apos;experts en développement web et IA.',
 }
 
 export default function About() {
@@ -23,7 +23,7 @@ export default function About() {
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Notre entreprise</h2>
             <p className="text-gray-600 leading-relaxed mb-6">
               C&V Digital est une agence digitale spécialisée dans la création de solutions web modernes 
-              et l'intégration de l'intelligence artificielle pour les entreprises. Nous combinons expertise 
+              et l&apos;intégration de l&apos;intelligence artificielle pour les entreprises. Nous combinons expertise 
               technique et vision business pour offrir des solutions qui transforment réellement votre 
               présence digitale.
             </p>
@@ -43,16 +43,16 @@ export default function About() {
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Notre Mission</h2>
               <p className="text-gray-600 leading-relaxed text-lg">
                 Rendre la digitalisation <strong>simple, performante et moderne</strong> pour toutes les entreprises. 
-                Nous croyons que chaque entreprise, quelle que soit sa taille, mérite d'avoir accès aux meilleures 
+                Nous croyons que chaque entreprise, quelle que soit sa taille, mérite d&apos;avoir accès aux meilleures 
                 technologies pour développer son activité.
               </p>
             </div>
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Notre Vision</h2>
               <p className="text-gray-600 leading-relaxed text-lg">
-                Rendre l'<strong>intelligence artificielle accessible</strong> à toutes les entreprises. 
-                Nous démocratisons l'IA en créant des solutions pratiques et abordables qui améliorent 
-                réellement la productivité et l'expérience client.
+                Rendre l&apos;<strong>intelligence artificielle accessible</strong> à toutes les entreprises. 
+                Nous démocratisons l&apos;IA en créant des solutions pratiques et abordables qui améliorent 
+                réellement la productivité et l&apos;expérience client.
               </p>
             </div>
           </div>

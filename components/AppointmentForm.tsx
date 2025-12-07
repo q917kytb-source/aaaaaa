@@ -182,7 +182,7 @@ export default function AppointmentForm() {
 
       {submitStatus === 'error' && (
         <div className="bg-red-50 border border-red-200 text-red-800 px-4 py-3 rounded-lg">
-          Une erreur s'est produite. Veuillez réessayer.
+          Une erreur s&apos;est produite. Veuillez réessayer.
         </div>
       )}
 

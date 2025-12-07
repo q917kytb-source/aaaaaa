@@ -35,7 +35,7 @@ export default function Contact() {
                   </a>
                 </div>
                 <div>
-                  <h3 className="text-lg font-semibold text-gray-900 mb-2">Besoin d'un rendez-vous ?</h3>
+                  <h3 className="text-lg font-semibold text-gray-900 mb-2">Besoin d&apos;un rendez-vous ?</h3>
                   <p className="text-gray-600 mb-4">
                     Utilisez notre formulaire de rendez-vous pour planifier une consultation personnalisée.
                   </p>

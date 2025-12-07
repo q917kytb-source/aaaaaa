@@ -12,7 +12,7 @@ export default function Footer() {
             <p className="text-gray-400 mb-4">
               Solutions Web & IA pour Entreprises Modernes. 
               Agence digitale spécialisée dans les sites professionnels, 
-              l'automatisation et l'intelligence artificielle.
+              l&apos;automatisation et l&apos;intelligence artificielle.
             </p>
             <div className="flex flex-col space-y-2">
               <a
